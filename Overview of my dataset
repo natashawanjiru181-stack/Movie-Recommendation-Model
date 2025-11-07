@@ -1,4 +1,3 @@
-Overview of my dataset
 This project uses popular movies dataset-9742 movies found in kaggle website. 
 Last updated three years ago by Aman Chauhan since being loaded to my Jupyter Notebook.
 The dataset contains 4 CSV files namely:Links, Movies, Ratings and Tags.
